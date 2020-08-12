@@ -121,3 +121,10 @@ session.flush();
 То есть, то что коммитится - в базу не попадает. Хранится в сессии. 
 
 Материал взят из [этой лекции](https://www.youtube.com/watch?v=4PKZRQAtf38)
+
+Материал по теме: 
+
+1. https://habr.com/ru/post/317884/
+2. https://habr.com/ru/post/135217/
+3. https://www.youtube.com/watch?v=xIQLl374Xkg
+4. https://docs.microsoft.com/ru-ru/dotnet/framework/data/adonet/transactions-and-concurrency
